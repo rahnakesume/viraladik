@@ -1,2 +1,1 @@
-# viraladik
-viraladik
+# [viraladik](https://viraladik.pages.dev)
